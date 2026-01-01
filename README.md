@@ -1,24 +1,54 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.discordapp.net/attachments/1289602870563569745/1447255663154565170/image.png?format=webp&quality=lossless&width=360&height=90"/>
 </p>
 
 <h1 align="center">Discord Bot Developer</h1>
 
 <p align="center">
-  Building clean, scalable and production-ready Discord systems
+  <i>High quality Discord moderation & guard bot's</i>
+</p>
+
+
+---
+
+## Overview
+
+I am a developer specialized in **Discord bot development**.  
+My work focuses on creating **stable, scalable and production-ready solutions** rather than short-term or experimental projects. I approach every project with a long-term mindset
+My goal is to design special discord bots for FiveM server owners and create a user-friendly bot.
+
+
+---
+
+## Areas of Focus
+
+- Discord bot development  
+- Backend Development  
+- Desktop apps with Electron.js
+- Node.js and NPM
+
+---
+
+## ⚙️ Languages & Technologies
+
+### Programming Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
+</p>
+
+### Runtime & Tooling
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="45"/>
 </p>
 
 ---
 
-## 👤 About
-
-- Focused on Discord bot development  
-- Clean architecture & performance oriented  
-- Guard, moderation & custom systems  
-
----
-
-## Contact
+## Contact With Me!
 
 <p align="center">
   <a href="https://discord.gg/XVG46j9ZaP">
@@ -30,35 +60,19 @@
   <b>Discord:</b> <code>thogru1l</code>
 </p>
 
----
-
-## ⚙️ Languages & Technologies
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42"/>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="42"/>
+  <sub>Preferred contact method: Discord</sub>
 </p>
 
 ---
 
-## 🤖 What I Do
+## 📌 Collaboration & Availability
 
-- Custom Discord bots  
-- Moderation and guard bots   
-- Backend-powered automation  
-- Electron-based desktop tools
-- Mobile apps with flutter 
+- Open to collaborations  
+- Open to long-term development work    
 
 ---
 
 <p align="center">
-  <sub>BotNex Bot Service</sub>
+  <sub>BotNex Bot Service | thogru1l</sub>
 </p>
